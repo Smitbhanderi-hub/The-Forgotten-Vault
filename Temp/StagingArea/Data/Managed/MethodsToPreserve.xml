@@ -1,0 +1,19 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="KeyManager">
+			<method name="StartGame"/>
+		</type>
+		<type fullname="SceneLoader">
+			<method name="LoadGame2"/>
+			<method name="LoadGame3"/>
+			<method name="LoadGameScene"/>
+			<method name="LoadWelcomeScreen"/>
+			<method name="LoadWelcomeScreen3"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Behaviour">
+			<method name="set_enabled"/>
+		</type>
+	</assembly>
+</linker>
