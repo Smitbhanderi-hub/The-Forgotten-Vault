@@ -3,7 +3,6 @@
 - [About the Game](#about-the-game)
 - [Installation](#installation)
 - [Gameplay](#gameplay)
-- [System Requirements](#system-requirements)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,5 +32,20 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
   - Choose your target platform & click Build and Run (Xcode will open automatically).
 
 4. Play the Game:
-  - The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen. 
+  - The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen.
+
+
+## Gameplay
+
+### Mini-Games
+1. **Mini-Game 1: Puzzle**
+   Solve logical puzzles by arranging tiles to complete the map.
+
+2. **Mini-Game 2: AR Adventure**
+   Immerse yourself in an environment to find keys and solve the mystery with an inbuilt camera.
+
+3. **Mini-Game 3: AR Hunting**
+   Scan the real environment using the device's camera to search for a hidden treasure chest.
+
+
 
