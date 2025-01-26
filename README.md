@@ -21,4 +21,6 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourgame.git
+   git clone https://github.com/Smitbhanderi-hub/The-Forgotten-Vault
+   cd The-Forgotten-Vault
+
