@@ -16,3 +16,9 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
   - **Adventure Mode**: Navigate a 3D environment.
   - **Combat Mode**: Searching for treasure in the surrounding environment and hunting in the environment.
 - Seamless transitions between modes for an uninterrupted experience.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/yourgame.git
