@@ -2,7 +2,7 @@
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Installation](#installation)
-- [Gameplay](#gameplay)
+- [Gameflow](#gameflow)
 - [Screenshots and Gameplay Recording](#screenshots-and-gameplay-recording)
 
 ## About the Game
@@ -34,7 +34,7 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
   - The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen.
 
 
-## Gameplay
+## Gameflow
 
 ### Mini-Games
 1. **Mini-Game 1: Puzzle**
