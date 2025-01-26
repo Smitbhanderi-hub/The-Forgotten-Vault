@@ -3,6 +3,7 @@
 - [About the Game](#about-the-game)
 - [Installation](#installation)
 - [Gameplay](#gameplay)
+- [Screenshots & Gameplay Recording](#screenshots&gameplay)
 
 ## About the Game
 The Forgotten Vault is an immersive game that combines puzzles and augmented reality (AR) to create a contemporary exploration journey with 3 mini-games. This project aimed to create an immersive and interactive environment for players by bridging the gap between traditional storytelling and cutting-edge augmented reality technology.
@@ -46,3 +47,6 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
    Scan the real environment using the device's camera to search for a hidden treasure chest.
 
 
+## Screenshots & Gameplay Recording
+![1](https://github.com/user-attachments/assets/433810dc-056d-4ad2-88b0-40fc6d028451)
+![2](https://github.com/user-attachments/assets/d193f319-35df-4378-9500-9d18bd2f90e3)
