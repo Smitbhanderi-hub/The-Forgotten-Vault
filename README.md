@@ -33,5 +33,5 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
   - Choose your target platform & click Build and Run (Xcode will open automatically).
 
 4. Play the Game:
-  The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen. 
+  - The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen. 
 
