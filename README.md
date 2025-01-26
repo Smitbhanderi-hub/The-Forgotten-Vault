@@ -48,5 +48,10 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
 
 
 ## Screenshots & Gameplay Recording
-![1](https://github.com/user-attachments/assets/433810dc-056d-4ad2-88b0-40fc6d028451)
-![2](https://github.com/user-attachments/assets/d193f319-35df-4378-9500-9d18bd2f90e3)
+- Screenshots (not for external use)
+![1](https://github.com/user-attachments/assets/2e34aa29-beb2-4664-bfb6-455153b50634)
+![2copy](https://github.com/user-attachments/assets/b44131fe-f695-4337-9b61-7b0553c808ef)
+
+- Screen Recording (not for external use)
+  [Watch Gameplay Demo](https://www.veed.io/view/e0d0825b-d156-4814-bfdd-b1006331343d?panel=share)
+
