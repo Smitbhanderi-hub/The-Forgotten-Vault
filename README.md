@@ -22,7 +22,16 @@ The Forgotten Vault is an immersive game that combines puzzles and augmented rea
 1. Clone the repository:
    ```bash
    git clone https://github.com/Smitbhanderi-hub/The-Forgotten-Vault
-2. Navigate to the project directory:
-  ```bash
-   cd The-Forgotten-Vault
+
+2. Open the Project in Unity:
+  - Launch Unity Hub, connect the IOS device
+  - Click on Open Project.
+  - Navigate to the cloned repository folder and open the project.
+
+3. Build the Game:
+  - Inside Unity, go to the menu bar and select File > Build Settings.
+  - Choose your target platform & click Build and Run (Xcode will open automatically).
+
+4. Play the Game:
+  The application will be launched in the IOS device automatically after the build is complete, open the executable app to start the game from the home screen. 
 
